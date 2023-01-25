@@ -1,2 +1,5 @@
-# rust_chapter_12
-Rust Chapter XII
+# Rust Chapter XII
+
+### Reference
+
+https://doc.rust-lang.org/stable/book/ch12-00-an-io-project.html
